@@ -1,0 +1,1112 @@
+[
+    {
+        "id": 1,
+        "name": "Dream Team",
+        "participants": "12",
+        "image": "./group-images/jesse-orrico-image.png",
+        "cover": "./general-images/v2osk-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 3,
+                "name": "Alexander Hipp",
+                "image": "./personal-images/alexander-hipp.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 4,
+                "name": "Brandon Zacharias",
+                "image": "./personal-images/brandon-zacharias.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 6,
+                "name": "Stephanie Liverani",
+                "image": "./personal-images/stephanie-liverani.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 8,
+                "name": "Toa Heftiba",
+                "image": "./personal-images/toa-heftiba.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 9,
+                "name": "Bannon Morrissy",
+                "image": "./personal-images/bannon-morrissy.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 10,
+                "name": "Rafaella Mendes Diniz",
+                "image": "./personal-images/rafaella-mendes-diniz.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 11,
+                "name": "Brooke Cagle",
+                "image": "./personal-images/brooke-cagle.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 12,
+                "name": "Filipp Romanovski",
+                "image": "./personal-images/filipp-romanovski.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 14,
+                "name": "Good Faces",
+                "image": "./personal-images/good-faces.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 15,
+                "name": "Harps Joseph",
+                "image": "./personal-images/harps-joseph.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Daybreak",
+        "participants": "10",
+        "image": "./group-images/robin-van-holst-image.png",
+        "cover": "./general-images/jordan-mcQueen-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 3,
+                "name": "Alexander Hipp",
+                "image": "./personal-images/alexander-hipp.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 4,
+                "name": "Brandon Zacharias",
+                "image": "./personal-images/brandon-zacharias.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 6,
+                "name": "Stephanie Liverani",
+                "image": "./personal-images/stephanie-liverani.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 8,
+                "name": "Toa Heftiba",
+                "image": "./personal-images/toa-heftiba.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 9,
+                "name": "Bannon Morrissy",
+                "image": "./personal-images/bannon-morrissy.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 10,
+                "name": "Rafaella Mendes Diniz",
+                "image": "./personal-images/rafaella-mendes-diniz.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 11,
+                "name": "Brooke Cagle",
+                "image": "./personal-images/brooke-cagle.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 12,
+                "name": "Filipp Romanovski",
+                "image": "./personal-images/filipp-romanovski.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Universal Signals",
+        "participants": "7",
+        "image": "./group-images/jaz-king-image.png",
+        "cover": "./general-images/ahmed-nishaath-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 3,
+                "name": "Alexander Hipp",
+                "image": "./personal-images/alexander-hipp.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 4,
+                "name": "Brandon Zacharias",
+                "image": "./personal-images/brandon-zacharias.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 6,
+                "name": "Stephanie Liverani",
+                "image": "./personal-images/stephanie-liverani.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 11,
+                "name": "Brooke Cagle",
+                "image": "./personal-images/brooke-cagle.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 12,
+                "name": "Filipp Romanovski",
+                "image": "./personal-images/filipp-romanovski.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Connect Collective",
+        "participants": "13",
+        "image": "./group-images/matt-c-image.png",
+        "cover": "./general-images/david-marcu-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 16,
+                "name": "Michael Dam",
+                "image": "./personal-images/michael-dam.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "News Spectator",
+        "participants": "9",
+        "image": "./group-images/roman-kraft-image.png",
+        "cover": "./general-images/dino-reichmuth-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 3,
+                "name": "Alexander Hipp",
+                "image": "./personal-images/alexander-hipp.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 4,
+                "name": "Brandon Zacharias",
+                "image": "./personal-images/brandon-zacharias.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Key Frequency",
+        "participants": "4",
+        "image": "./group-images/anne-nygård-image.png",
+        "cover": "./general-images/jordan-mcQueen-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 6,
+                "name": "Stephanie Liverani",
+                "image": "./personal-images/stephanie-liverani.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 8,
+                "name": "Toa Heftiba",
+                "image": "./personal-images/toa-heftiba.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 9,
+                "name": "Bannon Morrissy",
+                "image": "./personal-images/bannon-morrissy.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Voice it",
+        "participants": "3",
+        "image": "./group-images/jason-rosewell-image.png",
+        "cover": "./general-images/jorgen-hendriksen-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 8,
+                "name": "Toa Heftiba",
+                "image": "./personal-images/toa-heftiba.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "The Family Gang",
+        "participants": "14",
+        "image": "./group-images/nathan-dumlao-image.png",
+        "cover": "./general-images/mickey-oneil-image.png",
+        "archive": true,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 3,
+                "name": "Alexander Hipp",
+                "image": "./personal-images/alexander-hipp.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 4,
+                "name": "Brandon Zacharias",
+                "image": "./personal-images/brandon-zacharias.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 6,
+                "name": "Stephanie Liverani",
+                "image": "./personal-images/stephanie-liverani.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 8,
+                "name": "Toa Heftiba",
+                "image": "./personal-images/toa-heftiba.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 9,
+                "name": "Bannon Morrissy",
+                "image": "./personal-images/bannon-morrissy.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 10,
+                "name": "Rafaella Mendes Diniz",
+                "image": "./personal-images/rafaella-mendes-diniz.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 11,
+                "name": "Brooke Cagle",
+                "image": "./personal-images/brooke-cagle.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "So Called Engineers",
+        "participants": "17",
+        "image": "./group-images/tool-inc-image.png",
+        "cover": "./general-images/na-inho-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 3,
+                "name": "Alexander Hipp",
+                "image": "./personal-images/alexander-hipp.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 4,
+                "name": "Brandon Zacharias",
+                "image": "./personal-images/brandon-zacharias.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 6,
+                "name": "Stephanie Liverani",
+                "image": "./personal-images/stephanie-liverani.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 8,
+                "name": "Toa Heftiba",
+                "image": "./personal-images/toa-heftiba.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Roast Club",
+        "participants": "13",
+        "image": "./group-images/flash-dantz-image.png",
+        "cover": "./general-images/nina-plobner-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 6,
+                "name": "Stephanie Liverani",
+                "image": "./personal-images/stephanie-liverani.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 8,
+                "name": "Toa Heftiba",
+                "image": "./personal-images/toa-heftiba.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Travel Buddies",
+        "participants": "7",
+        "image": "./group-images/dario-brönnimann-image.png",
+        "cover": "./general-images/v2osk-image.png",
+        "archive": true,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 8,
+                "name": "Toa Heftiba",
+                "image": "./personal-images/toa-heftiba.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 9,
+                "name": "Bannon Morrissy",
+                "image": "./personal-images/bannon-morrissy.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 10,
+                "name": "Rafaella Mendes Diniz",
+                "image": "./personal-images/rafaella-mendes-diniz.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Selfie Dump",
+        "participants": "15",
+        "image": "./group-images/nate-johnston-image.png",
+        "cover": "./general-images/vincentiu-solomon-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 8,
+                "name": "Toa Heftiba",
+                "image": "./personal-images/toa-heftiba.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Avengers",
+        "participants": "6",
+        "image": "./group-images/mulyadi-image.png",
+        "cover": "./general-images/jordan-mcQueen-image.png",
+        "archive": true,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 3,
+                "name": "Alexander Hipp",
+                "image": "./personal-images/alexander-hipp.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 4,
+                "name": "Brandon Zacharias",
+                "image": "./personal-images/brandon-zacharias.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Gaming Buddies",
+        "participants": "17",
+        "image": "./group-images/carl-raw-images.png",
+        "cover": "./general-images/v2osk-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 3,
+                "name": "Alexander Hipp",
+                "image": "./personal-images/alexander-hipp.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 4,
+                "name": "Brandon Zacharias",
+                "image": "./personal-images/brandon-zacharias.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 6,
+                "name": "Stephanie Liverani",
+                "image": "./personal-images/stephanie-liverani.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 8,
+                "name": "Toa Heftiba",
+                "image": "./personal-images/toa-heftiba.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 9,
+                "name": "Bannon Morrissy",
+                "image": "./personal-images/bannon-morrissy.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 10,
+                "name": "Rafaella Mendes Diniz",
+                "image": "./personal-images/rafaella-mendes-diniz.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 11,
+                "name": "Brooke Cagle",
+                "image": "./personal-images/brooke-cagle.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 12,
+                "name": "Filipp Romanovski",
+                "image": "./personal-images/filipp-romanovski.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 14,
+                "name": "Good Faces",
+                "image": "./personal-images/good-faces.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 15,
+                "name": "Harps Joseph",
+                "image": "./personal-images/harps-joseph.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Crazy People Inside",
+        "participants": "15",
+        "image": "./group-images/saeed-karimi-image.png",
+        "cover": "./general-images/david-marcu-image.png",
+        "archive": true,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 14,
+                "name": "Good Faces",
+                "image": "./personal-images/good-faces.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 15,
+                "name": "Harps Joseph",
+                "image": "./personal-images/harps-joseph.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "The Squad",
+        "participants": "09",
+        "image": "./group-images/austin-distel-image.png",
+        "cover": "./general-images/christian-joudrey-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 8,
+                "name": "Toa Heftiba",
+                "image": "./personal-images/toa-heftiba.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 9,
+                "name": "Bannon Morrissy",
+                "image": "./personal-images/bannon-morrissy.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 10,
+                "name": "Rafaella Mendes Diniz",
+                "image": "./personal-images/rafaella-mendes-diniz.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 11,
+                "name": "Brooke Cagle",
+                "image": "./personal-images/brooke-cagle.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Tech Geeks",
+        "participants": "05",
+        "image": "./group-images/liam-tucker-image.png",
+        "cover": "./general-images/jordan-mcQueen-image.png",
+        "archive": true,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 3,
+                "name": "Alexander Hipp",
+                "image": "./personal-images/alexander-hipp.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 4,
+                "name": "Brandon Zacharias",
+                "image": "./personal-images/brandon-zacharias.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 6,
+                "name": "Stephanie Liverani",
+                "image": "./personal-images/stephanie-liverani.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            },
+            {
+                "id": 7,
+                "name": "Tyler Nix",
+                "image": "./personal-images/tyler-nix.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Dreamers",
+        "participants": "10",
+        "image": "./group-images/rob-walsh-image.png",
+        "cover": "./general-images/mickey-oneil-image.png",
+        "archive": false,
+        "chat": [],
+        "GroupList": [
+            {
+                "id": 100,
+                "name": "Oliver Ragfelt",
+                "image": "./images/oliver-ragfelt.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 1,
+                "name": "Meysam Jarahkar",
+                "image": "./personal-images/meysam-jarahkar.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 3,
+                "name": "Alexander Hipp",
+                "image": "./personal-images/alexander-hipp.png",
+                "role": "admin",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 9,
+                "name": "Bannon Morrissy",
+                "image": "./personal-images/bannon-morrissy.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "away"
+            },
+            {
+                "id": 10,
+                "name": "Rafaella Mendes Diniz",
+                "image": "./personal-images/rafaella-mendes-diniz.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "online"
+            },
+            {
+                "id": 11,
+                "name": "Brooke Cagle",
+                "image": "./personal-images/brooke-cagle.png",
+                "role": "user",
+                "lastMessage": "hey there i am available",
+                "status": "offline"
+            }
+        ]
+    }
+]
