@@ -25,7 +25,7 @@ import ProfileUserListProvider from "./ProfileUserList";
 import { JwtPayload, jwtDecode } from "jwt-decode";
 import io from "socket.io-client";
 
-const socket = io("http://192.168.1.10:5000");
+const socket = io("https://chat-bachend.onrender.com");
 
 // Inherite userId in JwtPayload interface
 interface UserIdJwtPayload extends JwtPayload {
