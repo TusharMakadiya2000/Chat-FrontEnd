@@ -9,7 +9,7 @@ import { toast } from "react-toastify";
 import { useAppState } from "../utils/useAppState";
 import io from "socket.io-client";
 import ProfileUserListProvider from "../ProfileUserList";
-const socket = io("http://192.168.1.10:5000");
+const socket = io("https://chat-bachend.onrender.com");
 
 interface TextSentProps {
     item: any;
