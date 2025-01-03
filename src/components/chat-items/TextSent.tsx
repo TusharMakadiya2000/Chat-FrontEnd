@@ -9,7 +9,7 @@ import { toast } from "react-toastify";
 import { useAppState } from "../utils/useAppState";
 import io from "socket.io-client";
 import ProfileUserListProvider from "../ProfileUserList";
-const socket = io("http://192.168.1.47:5000");
+const socket = io("http://192.168.1.10:5000");
 
 interface TextSentProps {
     item: any;
@@ -113,12 +113,9 @@ const TextSent: React.FC<TextSentProps> = ({
                         );
 
                         if (response.status === 200) {
-                            toast.success(
-                                `Chat with ID ${id} deleted successfully!`,
-                                {
-                                    theme: theme === "dark" ? "dark" : "light",
-                                }
-                            );
+                            toast.success(`Chat deleted successfully!`, {
+                                theme: theme === "dark" ? "dark" : "light",
+                            });
                             onDelete(id);
                             socket.emit("messageDeleted", {
                                 messageId: id,

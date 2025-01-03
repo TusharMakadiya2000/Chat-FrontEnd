@@ -60,7 +60,9 @@ const GroupItem: React.FC<userItemProps1> = ({
                 setLastTime(formattedTime);
             }
             const unreadMessages = await axios.get(
-                `http://192.168.1.47:5000/api/chats/unreadCount/${userItem._id}`,
+                `${import.meta.env.VITE_API_BASE_URL}/chats/unreadCount/${
+                    userItem._id
+                }`,
                 {
                     headers: {
                         Authorization: `Bearer ${token}`,

@@ -55,7 +55,7 @@ function Chat() {
                 navigate("/login");
             } else {
                 const groupData = await axios.get(
-                    "http://192.168.1.47:5000/api/groups",
+                    `${import.meta.env.VITE_API_BASE_URL}/groups`,
                     {
                         headers: {
                             Authorization: `Bearer ${token}`,
@@ -90,7 +90,7 @@ function Chat() {
                 navigate("/login");
             } else {
                 const broadcastData = await axios.get(
-                    "http://192.168.1.47:5000/api/broadcast",
+                    `${import.meta.env.VITE_API_BASE_URL}/broadcast`,
                     {
                         headers: {
                             Authorization: `Bearer ${token}`,

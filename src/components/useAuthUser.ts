@@ -20,7 +20,9 @@ const useAuthUser = () => {
                         navigate("/login");
                     } else {
                         const response = await axios.get(
-                            `http://192.168.1.47:5000/api/users/${loggedInUserId}`,
+                            `${
+                                import.meta.env.VITE_API_BASE_URL
+                            }/users/${loggedInUserId}`,
                             {
                                 headers: {
                                     Authorization: `Bearer ${token}`,
