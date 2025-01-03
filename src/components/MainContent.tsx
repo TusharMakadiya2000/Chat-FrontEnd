@@ -421,8 +421,12 @@ const MainContent = (props: IMainContentProps) => {
 
                 fetchChatData(0, props.activeItem._id, activeTab);
                 setTimeout(() => {
-                    chatScroll.current?.scrollToBottom(0, 0);
-                }, 100);
+                    // Scroll to the bottom of the chat container
+                    if (chatScroll.current) {
+                        const chatContainer = chatScroll.current;
+                        chatContainer.scrollTop = chatContainer.scrollHeight;
+                    }
+                }, 200);
             } catch (error) {
                 console.error("Error sending/updating message:", error);
             }

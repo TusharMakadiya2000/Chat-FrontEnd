@@ -35,7 +35,7 @@ root.render(
                     {/* <App /> */}
                     <Routes>
                         <Route path="/" element={<App />}>
-                            <Route index element={<Home />} />
+                            <Route index element={<Login />} />
 
                             <Route path="/icons" element={<IconList />} />
 

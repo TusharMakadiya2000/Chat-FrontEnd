@@ -9,6 +9,7 @@ import { useEffect } from "react";
 import Icon from "../components/utils/Icon";
 import CryptoJS from "crypto-js";
 import { useAuth } from "../AuthContext";
+
 interface FormDataType {
     email: string;
     password: string;
@@ -81,6 +82,7 @@ const Login = (props: any) => {
             const { token } = response.data;
             localStorage.setItem("token", token);
             login(token);
+            localStorage.setItem("activeTab", "personal");
             toast.success("Login successful!", {
                 theme: theme === "dark" ? "dark" : "light",
             });

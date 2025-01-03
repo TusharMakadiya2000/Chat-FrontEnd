@@ -17,7 +17,7 @@ const SideMenu = () => {
     const [profile, setProfileMenu] = useState(false);
     const { profileMenu } = MenuList();
     const [themeMode, setThemeMode] = useState(
-        localStorage.getItem("theme") || "light"
+        localStorage.getItem("theme") || "dark"
     );
     const [isMenuOpen, setIsMenuOpen] = useState(false);
 

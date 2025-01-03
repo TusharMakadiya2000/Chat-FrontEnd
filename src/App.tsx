@@ -11,6 +11,7 @@ function App() {
     const location = useLocation();
 
     const excludedPaths = [
+        "/",
         "/chat",
         "/call",
         "/Signup",
